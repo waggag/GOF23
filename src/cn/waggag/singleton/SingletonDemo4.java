@@ -7,7 +7,7 @@ package cn.waggag.singleton;
  * @2018年5月16日 下午6:12:03
  */
 public class SingletonDemo4 {
-	
+
 	private SingletonDemo4() {
 	}
 	
