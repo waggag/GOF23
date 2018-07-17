@@ -4,6 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 //1997,英国的克隆羊，多利！
+@SuppressWarnings("all")
 public class Sheep implements Cloneable,Serializable {   
 	
 	private String sname;
